@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**hey-its-brian/hey-its-brian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Brian 👋
+**Platform / SRE** — Kubernetes (k3s/EKS), Terraform, AWS, Linux/Bash, GitOps (Argo CD).  
+Healthtech/Govtech background (DCHBX). I build secure, observable, autoscaling platforms.
 
-Here are some ideas to get you started:
+- 🔭 Current: Homelab **k3s** with GitOps, MetalLB, ingress, NFS/Longhorn
+- 🧰 Tools: k8s • Terraform • AWS • Argo CD • Prometheus/Grafana/Loki • Bash • Linux
+- 💬 Ask me about: safe data remediation, runbooks, incident response
+- 🌐 Virginia Beach, VA — remote-first
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected Work
+- **platform-k3s** — E2E GitOps cluster (infra, add-ons, demo app, docs)
+- **safe-data-fixes** — sanitized Rails/Mongo scripts with dry-run & audit CSVs
+- **devops-runbooks** — actionable runbooks (backup/restore, rollbacks, SLOs)
+
+> Contact: brian@heyitsbrian.com · LinkedIn/GitHub
