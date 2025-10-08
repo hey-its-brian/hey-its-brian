@@ -9,9 +9,5 @@ Healthtech/Govtech background (DCHBX). I build secure, observable, autoscaling p
 - 💬 Ask me about: safe data remediation, runbooks, incident response
 - 🌐 Virginia Beach, VA — remote-first
 
-## Selected Work
-- **platform-k3s** — E2E GitOps cluster (infra, add-ons, demo app, docs)
-- **safe-data-fixes** — sanitized Rails/Mongo scripts with dry-run & audit CSVs
-- **devops-runbooks** — actionable runbooks (backup/restore, rollbacks, SLOs)
 
-> Contact: brian@heyitsbrian.com · LinkedIn/GitHub
+> Contact: brian@heyitsbrian.com · Email/GitHub
