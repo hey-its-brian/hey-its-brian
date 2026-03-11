@@ -1,4 +1,4 @@
-## Hi there 👋
+## Howdy!
 
 # Hi, I'm Brian 👋
 **Platform / SRE** — Kubernetes (k3s/EKS), Terraform, AWS, Linux/Bash, GitOps (Argo CD).  
